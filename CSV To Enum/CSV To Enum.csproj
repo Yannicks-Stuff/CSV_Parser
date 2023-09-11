@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>CSV_To_Enum</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Core9">
+        <HintPath>..\..\..\..\Bibliotheken\CSharp\Core\Core9\bin\Debug\net8.0\Core9.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

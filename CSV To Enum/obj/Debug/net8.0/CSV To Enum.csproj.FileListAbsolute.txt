@@ -1,0 +1,18 @@
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\CSV To Enum.exe
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\CSV To Enum.dll
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\Core9.dll
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\Core9.pdb
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.csproj.AssemblyReference.cache
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.AssemblyInfoInputs.cache
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.AssemblyInfo.cs
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.csproj.CoreCompileInputs.cache
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.dll
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\refint\CSV To Enum.dll
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.pdb
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\CSV To Enum.deps.json
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\CSV To Enum.runtimeconfig.json
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\bin\Debug\net8.0\CSV To Enum.pdb
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.csproj.CopyComplete
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\CSV To Enum.genruntimeconfig.cache
+G:\Source Code\Programme\C#\CSV To Enum\CSV To Enum\obj\Debug\net8.0\ref\CSV To Enum.dll
